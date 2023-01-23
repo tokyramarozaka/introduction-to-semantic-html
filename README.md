@@ -1,4 +1,4 @@
-# introduction-to-semantic-html
+# Introduction to Semantic HTML
 A very basic example on how semantic elements can be useful. 
 
 # Why semantic HTML ? 
